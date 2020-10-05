@@ -41,7 +41,7 @@ My energy levels tend to fade in the afternoon
 
 Volume setting seems to be permanently stuck slightly too high
 
-Can be a bit sloppy and gloss over details
+Prefer to stay high-level, which means I can sometimes gloss over details
 
 Sometimes take things personally that I shouldn't
 # How you can help Daniel
