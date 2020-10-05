@@ -5,15 +5,11 @@
 
 **My fundamental moral principle**: make things better where you can, leave the world better than you found it, be better today than you were tomorrow – incremental improvements are the key!
 # I’m at my best
-In the morning
-
-In a peaceful environment (I know this is a funny contrast with how loud I am)
-
-When I’m trying to solve a challenging problem with other people I trust and admire
-
-Taking a doing approach to learning: letting me tinker and play with something will typically be the fastest route to me understanding it
-
-In an orderly environment – my desk will typically be as neat as I can make it, and chaos makes me feel stressed
+- In the morning
+- In a peaceful environment (I know this is a funny contrast with how loud I am)
+- When I’m trying to solve a challenging problem with other people I trust and admire
+- Taking a doing approach to learning: letting me tinker and play with something will typically be the fastest route to me understanding it
+- In an orderly environment – my desk will typically be as neat as I can make it, and chaos makes me feel stressed
 # I can’t stand
 **Negativity.** Identifying problems is fine, and important, I just react better to this being part of a process towards finding a solution rather than an exercise in complaining.
 
