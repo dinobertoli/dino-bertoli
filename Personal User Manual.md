@@ -52,5 +52,5 @@ I love board games, and although I’m quite competitive, my main pleasure is fr
 I founded an escape room back in Australia (Next Level Escape), which whetted my appetite for entrepreneurship – I want to start another company at some point.
 # Find me here
 * https://twitter.com/danieljthomason
-* https://blog.dthomason.com
+* https://dthomason.com
 * https://www.linkedin.com/in/daniel-thomason/
