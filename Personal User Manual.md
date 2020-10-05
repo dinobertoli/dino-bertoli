@@ -54,8 +54,6 @@ Introduce me to people in the fintech or product management space
 I love board games, and although I’m quite competitive, my main pleasure is from seeing the game played well – so much so that I would rather another player good advice even if it is bad for me than stay silent
 
 I founded an escape room back in Australia (Next Level Escape), which whetted my appetite for entrepreneurship – I want to start another company at some point.
-
-I tend to get less fun when I drink (I just get tired quickly), so I try to avoid alcohol most of the time
 # Find me here
 * https://twitter.com/danieljthomason
 * https://blog.dthomason.com
