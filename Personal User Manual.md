@@ -11,7 +11,7 @@ This is a guide to Daniel Thomason – a very quick tour of my personality and q
 - In a peaceful environment (I know this is a funny contrast with how loud I am)
 - When I’m trying to solve a challenging problem with other people I trust and admire
 - Taking a doing approach to learning: letting me tinker and play with something will typically be the fastest route to me understanding it
-- In an orderly environment – my desk will typically be as neat as I can make it, and chaos makes me feel stressed
+- In an orderly physical environment – my desk (and virtual desktop!) will typically be as neat as I can make it. This comes from my belief that in order to embrace chaos in some domains, you need to have a foundation of order and structure in others
 # I can’t stand
 **Negativity.** Identifying problems is fine, and important, I just react better to this being part of a process towards finding a solution rather than an exercise in complaining.
 
@@ -19,9 +19,10 @@ This is a guide to Daniel Thomason – a very quick tour of my personality and q
 
 **Being told what to do without justification or consultation.** If I know why, I’ll be more motivated to work on the task, and I might find a better way to accomplish the desired outcome. This also goes for teams I work with: I’ll labour as best I can to always provide context and justification rather than just a ‘what’ to deliver.
 # How I work best with others
-Communication: Slack for quick or urgent topics, email for larger topics requiring thought, face-to-face for anything sensitive or requiring discussion or shared brainstorming
+Communication: Slack for quick or urgent topics, email for larger topics requiring thought, face-to-face for anything sensitive or requiring discussion or shared brainstorming.
 On Slack, I won't be offended if you go straight to asking me a question without any small talk or greeting – efficiency is the name of the game here. You can expect the same from me if we interact frequently.
-        I like to chat and banter a bit at the start of face-to-face meetings or video chats – build the relationship :)
+
+I like to chat and banter a bit at the start of face-to-face meetings or video chats – build the relationship :)
 
 I love walking meetings when possible
 
@@ -54,5 +55,5 @@ I love board games, and although I’m quite competitive, my main pleasure is fr
 I founded an escape room back in Australia (Next Level Escape), which whetted my appetite for entrepreneurship – I want to start another company at some point.
 # Find me here
 * https://twitter.com/danieljthomason
-* https://dthomason.com
+* https://www.dthomason.com
 * https://www.linkedin.com/in/daniel-thomason/
