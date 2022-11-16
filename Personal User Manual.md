@@ -1,5 +1,5 @@
 # What is this document?
-This is a guide to Daniel Thomason – a very quick tour of my personality and quirks. The aim is to help friends and colleagues understand me better, to make our relationships easier and more fun and productive :) If you have questions or suggestions for changes, feel free to get in touch (or submit a pull request!).
+This is a guide to Dino Bertoli – a very quick tour of my personality and quirks. The aim is to help friends and colleagues understand me better, to make our relationships easier and more fun and productive :) If you have questions or suggestions for changes, feel free to get in touch (or submit a pull request!).
 # My core beliefs
 **Life is too short to be overly serious.** I like to work hard and commit fully to whatever I’m doing, but I’ll be cracking jokes as I do so. Laughter is the best medicine and the only rational response to a bizarre, indifferent universe.
 
